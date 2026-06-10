@@ -1,4 +1,4 @@
-# 
+# Nuevo LangChain preajustes. Con análisis de documentos y búsqueda semántica — optimizado para el máximo rendimiento y eficiencia.
 
 
 
